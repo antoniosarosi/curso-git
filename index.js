@@ -72,4 +72,5 @@ const affiliateRedirect = () => {
 // cambios videos 2
 // cambios videos 3
 
-// cambio de video yutube
+// cambio de video mastermind
+// cambioo
