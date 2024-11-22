@@ -62,7 +62,7 @@ const affiliateRedirect = () => {
   // resolver el bug
 }
 
-// Video pull request.
+// Video pull request 1.
 
 // test commit
 
@@ -71,5 +71,6 @@ const affiliateRedirect = () => {
 // cambio 3
 
 // cambios videos 1
-// cambios videos 2
+// cambios videos 2 
 // cambios videos 3
+
